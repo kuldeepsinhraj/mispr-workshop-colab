@@ -1,0 +1,9 @@
+{
+    "aliases": {},
+    "collection": "molecules",
+    "database": "gaussian_molecules",
+    "host": ["mongodb://localhost"],
+    "port": 27017,
+    "authsource": "admin",
+    "mongoclient_kwargs": {"ssl": false, "retrywrites": true, "w": "majority"}
+}

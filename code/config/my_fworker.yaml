@@ -1,0 +1,5 @@
+name: CodeOcean
+category: ''
+query: '{}'
+env:
+    db_file: /root/capsule/code/config/db.json
