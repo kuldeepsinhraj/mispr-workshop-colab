@@ -10,7 +10,7 @@ Three tutorials:
 - **Molecular Dynamics Simulation**
 
 ### How to run
-1. Click the **Open in Colab** button above.
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kuldeepsinhraj/mispr-workshop-colab/blob/main/colab/MISPR_Workshop.ipynb)
+1. Click the **Open in Colab** button > 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kuldeepsinhraj/mispr-workshop-colab/blob/main/colab/MISPR_Workshop.ipynb)
 3. Sign in with your Google account.
 4. Run the **Setup** cell first, then go through each section one cell at a time.
